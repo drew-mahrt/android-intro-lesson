@@ -24,10 +24,8 @@ creator:
 ### Objectives
 *After this lesson, students will be able to:*
 
-* Identify the UI building blocks of a simple Android app
-* Match specific components and functions of a given app to code
-* Open Android Studio and run a pre-supplied app
-* Enable developer mode on an Android device (if you haven’t already)
+* Discuss the basics of Android
+* Create an app together
 
 ## Opening (5 mins)
 
