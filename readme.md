@@ -25,7 +25,8 @@ creator:
 *After this lesson, students will be able to:*
 
 * Discuss the basics of Android
-* Create an app together
+* Learn the basic building blocks of an Android app
+* Develop an app together!
 
 ## Opening (5 mins)
 
